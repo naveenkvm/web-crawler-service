@@ -4,6 +4,10 @@ Make sure you've:
 
 Java 11, Gradle 5.6.4
 
+To view swagger-ui docs:
+
+http://localhost:8080/buildit/swagger-ui/
+
 How to run :-
 
 1) Clone this repository in local machine (git clone ..)
